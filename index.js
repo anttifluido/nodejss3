@@ -3,7 +3,7 @@ var AWS = require('aws-sdk');
 var uuid = require('uuid');
 var fs = require('fs');
 
-//var credentials = new AWS.SharedIniFileCredentials({profile: 'mtv-dmp'});
+//var credentials = new AWS.SharedIniFileCredentials({profile: 'zzz'});
 //AWS.config.credentials = credentials;
 //console.log(credentials);
 
