@@ -1,0 +1,23 @@
+{
+  "name": "nodejss3",
+  "version": "1.0.0",
+  "description": "file operations for s3 bucket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anttifluido/nodejss3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anttifluido/nodejss3/issues"
+  },
+  "homepage": "https://github.com/anttifluido/nodejss3#readme",
+  "dependencies": {
+    "aws-sdk": "^2.311.0",
+    "uuid": "^3.3.2"
+  }
+}
